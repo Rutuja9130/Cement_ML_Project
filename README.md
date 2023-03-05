@@ -19,17 +19,6 @@ The code for this project is written in Python and includes preprocessing, model
 preprocessing.py: Preprocessing script for cleaning and transforming the raw data.
 model_training.py: Script for training various machine learning models on the preprocessed data.
 evaluation.py: Script for evaluating the trained models and generating performance metrics.
-Usage
-To run the code and reproduce the results, follow these steps:
-
-Clone the repository: git clone https://github.com/username/repo.git
-Navigate to the repository directory: cd repo
-Install the required Python packages: pip install -r requirements.txt
-Run the preprocessing script: python src/preprocessing.py
-Run the model training script: python src/model_training.py
-Run the evaluation script: python src/evaluation.py
-The output of each script will be saved in the output directory.
-
 
 
 Conclusion
